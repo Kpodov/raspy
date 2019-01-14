@@ -1,0 +1,3 @@
+[submodule "simple-server-node"]
+	path = simple-server-node
+	url = ../simple-server-node/
